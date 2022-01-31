@@ -20,10 +20,12 @@ La'Tonia Mertica Sheppard Walker<br>
 
 _couldn't have achieved the level we have without the stellar support of our mentors_
 
-- Chris Baker, Justice Through Code
-- Nate Evans, Careers in Code
-- Chelsea Troy, Emergent Works
-- Max Matthews, Careers in Code
+- Software Engineer Chris Baker, Justice Through Code
+- Software Engineer Nate Evans, Careers in Code
+- Software Engineer Chelsea Troy, Emergent Works
+- Software Engineer Max Matthews, Careers in Code
+
+<br>
 
 <br>
 
