@@ -14,12 +14,18 @@ Jason Doze<br>
 La'Tonia Mertica Sheppard Walker<br>
 [GITHUB UN: LaTonia-Mertica](https://github.com/LaTonia-Mertica)<br>
 
+<br>
+
 ### **MENTOR SUPPORT**<br>
+
+_couldn't have achieved the level we have without the stellar support of our mentors_
 
 - Chris Baker, Justice Through Code
 - Nate Evans, Careers in Code
 - Chelsea Troy, Emergent Works
 - Max Matthews, Careers in Code
+
+<br>
 
 ###### [view flow chart](images/Flowchart.png)
 
