@@ -140,6 +140,7 @@ Gallery is a collection of the vibrancy of contributions through shared artifact
 
 - fluid interlocking image design on gallery page per image sizes
 - maintain db content on re/new deploy (not delete on new deploy)
+- refactor code to [handle dynamic randomized images more efficiently](https://medium.com/@jerinisready/how-to-fetch-random-item-from-a-filtered-queryset-in-django-orm-ca680df69328)
 - revisit backlog and prioritize series of subsequent implementations
 - purchase and implement domain for polished custom url experience
 - upgrade [heroku.com](https://www.heroku.com/) account to basic paid to maintain active server
