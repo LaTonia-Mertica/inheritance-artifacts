@@ -1,8 +1,14 @@
 # **INHERITANCE DOT ARTIFACTS**
 
+###### _**note:** upon arrival, the inheritance site/app appears broken. it is not. view it as a blank canvas on which you can author creative, unique outcomes for a session. .. unless and until we are able to dedicate time and energy needed to operate inheritance full time, the site/app is designed for single-session use - meaning you can visit the deploy, build out the content, and be the sole or shared author as long as the session continues. once done, the inheritance site resets_
+
+<br>
+
 #### destined for existence as an app and/or online at `https://inheritance.artifacts` accompanied by tagline _'where life lives'_
 
 #### [visit inheritance artifacts live demo](https://inheritance-artifacts.herokuapp.com/)
+
+#### [view inheritance dramatic intro](videos/Inheritance_Alt_Intro.mp4)
 
 <br>
 
