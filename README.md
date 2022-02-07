@@ -8,7 +8,7 @@
 
 #### [visit inheritance artifacts live demo](https://inheritance-artifacts.herokuapp.com/)
 
-#### [view inheritance dramatic intro](videos/Inheritance_Alt_Intro.mp4)
+#### [view inheritance dramatic intro video](videos/Inheritance_Alt_Intro_Video.mp4)
 
 <br>
 
