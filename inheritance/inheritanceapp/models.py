@@ -1,3 +1,10 @@
+# django has sqlite3 built-in
+# django models simplify tasks and organize tables into models
+# fields store specific data types in django ie. integer for id
+# bytesio is a method that manipulates bytes/binary data in memory
+# django.core.files module and its submodules contain built-in classes for basic file handling ... used by django when representing a file is needed ... to open/close files
+# contentfile is imported from django.core.files.base to allow operations on string content
+
 from django.db import models
 from django.db.models.base import *
 from django.db.models.fields import DateTimeField
